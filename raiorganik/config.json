@@ -1,0 +1,41 @@
+{
+  "storeInfo": {
+    "name": "Rai Organik",
+    "whatsappNumber": "6281234567890",
+    "logoText": "RO",
+    "isVerified": true
+  },
+  "marketplaceLinks": [
+    { "name": "Tokopedia", "type": "tokopedia", "url": "#" },
+    { "name": "Shopee", "type": "shopee", "url": "#" },
+    { "name": "TikTok", "type": "tiktok", "url": "#" }
+  ],
+  "shippingMethods": ["JNE", "J&T", "Gosend"],
+  "paymentMethods": ["BCA", "BNI", "BRI", "Mandiri", "QRIS"],
+  "products": [
+    {
+      "id": 1,
+      "nama": "Lume Foundation Sachet - Sand",
+      "harga": 89000,
+      "harga_coret": 100000,
+      "lokasi": "MAKASSAR",
+      "stok": 12,
+      "deskripsi": "Foundation ringan dengan coverage tinggi yang sangat cocok untuk kulit tropis Indonesia.",
+      "gambar": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=600",
+      "images": [
+        "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=600",
+        "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&q=80&w=600"
+      ]
+    },
+    {
+      "id": 2,
+      "nama": "Lume Compact Powder - Light",
+      "harga": 149000,
+      "harga_coret": 180000,
+      "lokasi": "MAKASSAR",
+      "stok": 5,
+      "deskripsi": "Bedak padat eksklusif yang menyamarkan pori-pori dan memberikan hasil matte.",
+      "gambar": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&q=80&w=600"
+    }
+  ]
+}
