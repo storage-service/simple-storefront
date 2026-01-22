@@ -10,7 +10,7 @@
     { "name": "Shopee", "type": "shopee", "url": "#" },
     { "name": "TikTok", "type": "tiktok", "url": "#" }
   ],
-  "shippingMethods": ["JNE", "J&T", "Gosend"],
+  "shippingMethods": ["JNE", "J&T", "Grab", "Gojek"],
   "paymentMethods": ["BCA", "BNI", "BRI", "Mandiri", "QRIS"],
   "products": [
     {
@@ -18,9 +18,8 @@
       "nama": "Lume Foundation Sachet - Sand",
       "harga": 89000,
       "harga_coret": 100000,
-      "lokasi": "MAKASSAR",
       "stok": 12,
-      "deskripsi": "Foundation ringan dengan coverage tinggi yang sangat cocok untuk kulit tropis Indonesia.",
+      "deskripsi": "Foundation ringan dengan coverage tinggi yang sangat cocok untuk kulit tropis Indonesia. Memberikan hasil akhir yang halus dan tahan lama.",
       "gambar": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=600",
       "images": [
         "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=600",
@@ -32,10 +31,73 @@
       "nama": "Lume Compact Powder - Light",
       "harga": 149000,
       "harga_coret": 180000,
-      "lokasi": "MAKASSAR",
       "stok": 5,
-      "deskripsi": "Bedak padat eksklusif yang menyamarkan pori-pori dan memberikan hasil matte.",
-      "gambar": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&q=80&w=600"
+      "deskripsi": "Bedak padat eksklusif yang menyamarkan pori-pori dan memberikan hasil matte yang natural sepanjang hari.",
+      "gambar": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&q=80&w=600",
+      "images": ["https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&q=80&w=600"]
+    },
+    {
+      "id": 3,
+      "nama": "Lip Gloss Rose Pink - Natural Glow",
+      "harga": 55000,
+      "harga_coret": 75000,
+      "stok": 25,
+      "deskripsi": "Memberikan kilau alami pada bibir Anda dengan kandungan vitamin E untuk menjaga kelembapan.",
+      "gambar": "https://images.unsplash.com/photo-1586776977607-310e9c725c37?auto=format&fit=crop&q=80&w=600",
+      "images": ["https://images.unsplash.com/photo-1586776977607-310e9c725c37?auto=format&fit=crop&q=80&w=600"]
+    },
+    {
+      "id": 4,
+      "nama": "Hydrating Facial Mist - Lavender Extract",
+      "harga": 110000,
+      "harga_coret": 135000,
+      "stok": 15,
+      "deskripsi": "Menyegarkan kulit wajah seketika dan mengunci kelembapan setelah makeup.",
+      "gambar": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=600",
+      "images": ["https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=600"]
+    },
+    {
+      "id": 5,
+      "nama": "Organic Brightening Serum - Vitamin C",
+      "harga": 210000,
+      "harga_coret": 250000,
+      "stok": 8,
+      "deskripsi": "Serum pencerah wajah dengan bahan aktif organik yang aman untuk kulit sensitif.",
+      "gambar": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=600",
+      "images": [
+        "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=600",
+        "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&q=80&w=600"
+      ]
+    },
+    {
+      "id": 6,
+      "nama": "Deep Cleansing Foam - Tea Tree Oil",
+      "harga": 75000,
+      "harga_coret": 95000,
+      "stok": 30,
+      "deskripsi": "Sabun pembersih wajah untuk kulit berminyak dan berjerawat dengan kandungan anti-bakteri alami.",
+      "gambar": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=600",
+      "images": ["https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=600"]
+    },
+    {
+      "id": 7,
+      "nama": "Night Repair Moisturizer - Rice Bran",
+      "harga": 185000,
+      "harga_coret": 220000,
+      "stok": 10,
+      "deskripsi": "Pelembap malam hari yang menutrisi kulit saat tidur agar wajah tampak kenyal di pagi hari.",
+      "gambar": "https://images.unsplash.com/photo-1594465919760-441fe5908ab0?auto=format&fit=crop&q=80&w=600",
+      "images": ["https://images.unsplash.com/photo-1594465919760-441fe5908ab0?auto=format&fit=crop&q=80&w=600"]
+    },
+    {
+      "id": 8,
+      "nama": "UV Shield Sunscreen - SPF 50 PA+++",
+      "harga": 125000,
+      "harga_coret": 150000,
+      "stok": 20,
+      "deskripsi": "Tabir surya ringan tanpa white-cast, memberikan perlindungan maksimal dari sinar UV.",
+      "gambar": "https://images.unsplash.com/photo-1556229167-73138355608d?auto=format&fit=crop&q=80&w=600",
+      "images": ["https://images.unsplash.com/photo-1556229167-73138355608d?auto=format&fit=crop&q=80&w=600"]
     }
   ]
 }
